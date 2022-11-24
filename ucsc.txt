@@ -1,0 +1,88 @@
+https://engineering.ucsc.edu/people/palvaro
+Peter Alvaro		palvaro@ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/owen
+Owen Arden		owen@soe.ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/sbeamer
+Scott Beamer		sbeamer@ucsc.edu
+Computer architecture
+
+https://engineering.ucsc.edu/people/elkaim
+Gabriel Hugh Elkaim		elkaim@soe.ucsc.edu
+embedded system
+
+https://engineering.ucsc.edu/people/shel
+Sheldon (Shel) Finkelstein		shel@ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/mrg
+Matthew Guthaus		mrg@ucsc.edu
+VLSI
+
+https://engineering.ucsc.edu/people/rph
+Richard Hughey		rph@soe.ucsc.edu
+https://engineering.ucsc.edu/people/rph
+Richard Hughey		mbarton@ucsc.edu
+computer architecture
+
+https://engineering.ucsc.edu/people/kang
+Sung-Mo "Steve" Kang		skang@ucsc.edu
+https://engineering.ucsc.edu/people/kang
+Sung-Mo "Steve" Kang		kang@soe.ucsc.edu
+VLSI
+
+https://engineering.ucsc.edu/people/lkuper
+Lindsey Kuper		lkuper@ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/hlitz
+Heiner Litz		hlitz@ucsc.edu
+Computer Architecture
+
+https://engineering.ucsc.edu/people/carlosm
+Carlos Maltzahn		carlosm@ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/elm
+Ethan L. Miller		elm@ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/inassi
+Dr. Ike Nassi		nassi@nassi.com
+https://engineering.ucsc.edu/people/inassi
+Dr. Ike Nassi		inassi@soe.ucsc.edu
+https://engineering.ucsc.edu/people/inassi
+Dr. Ike Nassi		inassi@ucsc.edu
+Distributed System
+
+https://engineering.ucsc.edu/people/sanath
+Sagnik Nath		sanath@ucsc.edu
+VLSI
+
+https://engineering.ucsc.edu/people/katia
+Katia Obraczka		katia@soe.ucsc.edu
+distributed system
+
+https://engineering.ucsc.edu/people/kdp
+Ken Pedrotti		kdp@soe.ucsc.edu
+VLSI
+
+https://engineering.ucsc.edu/people/aquinn1
+Andrew Quinn		aquinn1@ucsc.edu
+Distributed System
+
+https://engineering.ucsc.edu/people/renau
+Jose Renau		renau@soe.ucsc.edu
+Computer architecture
+
+https://engineering.ucsc.edu/people/varma
+Anujan Varma		varma@soe.ucsc.edu
+computer architecture
+
+https://engineering.ucsc.edu/people/alw
+Alexander Wolf		alw@ucsc.edu
+distributed system
+
